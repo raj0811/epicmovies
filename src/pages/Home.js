@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
-import { movies } from '../api/movies';
+
 import { categories } from '../api/categories';
-import MovieCard from '../components/MovieCard';
+
 import styles from '../styles/home.module.css';
 
 
