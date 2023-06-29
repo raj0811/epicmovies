@@ -8,6 +8,7 @@ import styles from '../styles/home.module.css';
 const Home = () => {
   return (
     <div className={styles.main}>
+      
       <h1>Select category</h1>
       <div className={styles.cat}>
         {categories.map((category, index) => (

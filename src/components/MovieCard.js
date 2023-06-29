@@ -15,7 +15,7 @@ const MovieCard = ({ cat, movies }) => {
                             <div className={styles.movieposter}>
                             <img src={movie.img} alt={movie.Title} className={styles.movieposter} />
                             </div>
-                            <h2>{movie.Title}</h2>
+                            <h2 className={styles.name}>{movie.Title}</h2>
                             {/* <h3>{movie.cat}</h3> */}
                             {/* Additional movie details */}
                         </div>

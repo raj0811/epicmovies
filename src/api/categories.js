@@ -192,5 +192,7 @@ export const categories = [
     pass: 'physo',
     background: 'url("https://www.hollywoodreporter.com/wp-content/uploads/2022/09/28fea_documentary_MAIN-splash.jpg")'
   },
+  
   // Add more categories as needed
+
 ];

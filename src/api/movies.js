@@ -712,7 +712,7 @@ export const movies =[
         Title: 'The Silence',
         img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLVRiwYbX-QrU_QPZPrysOdJxXgzOTuOSarAZPfQrYfkZDOszD',
         link: '',
-        cat: ['survivor'],
+        cat: ['survivor','alien'],
         remarks: '',
         year: 2019
     },{
@@ -884,4 +884,279 @@ export const movies =[
         remarks: '',
         year: 2011
     },
+    // Zombies
+    {
+        Title: 'World war z',
+        img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx8OR0fpaoPPFm3ajIJ0WaZ4AkxNEOUiBtjdiJZg4-m0CUZqT4',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2013
+    },
+    {
+        Title: 'Resident Evil',
+        img: 'https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY281_CR2,0,190,281_.jpg',
+        link: '',
+        cat: ['zombie'],
+        remarks: 'Movie Series',
+        year: 2002
+    },
+    {
+        Title: 'Zombieland',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFq-3wneGydZFFqKUVZbGPSon3lV7CSqbrP_rlb-uu&usqp=CAE&s',
+        link: '',
+        cat: ['zombie'],
+        remarks: '2 Movies',
+        year: 2009
+    },
+    {
+        Title: 'Dawn of the Dead 2004',
+        img: 'https://images.moviesanywhere.com/9783aaf2dca2e811da8164798b8abb89/47bba19f-2444-45f4-af0c-b119a33dfee3.jpg',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2002
+    },
+    {
+        Title: 'Dawn of the Dead',
+        img: 'https://m.media-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 1978
+    },
+    {
+        Title: 'Scouts Guide to the Zombie Apocalypse',
+        img: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpV6b4EZqBf5abC2pAe5oRFpt6l9AXJiUq1B7zMVWmC3W6OPQo',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2015
+    },
+    {
+        Title: 'Shaun of the Dead',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-vTn8Pz4QR5F5BodeQH_AXNOHr3gVjUqhdKuYvEKQJu2eothj',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2004
+    },
+    {
+        Title: '#Alive',
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkQT9cSSis5q40Ezj58v1k2Lfn_llWmCe7djfVDiyyTPxHIttt',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2020
+    },
+    {
+        Title: 'Maggie',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0vwj845ptGovk03LyREcFwIQ1Th_3u67lU73fk2uR7LTCT-j',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2015
+    },
+    {
+        Title: 'Land of the Dead',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxXyIXFAecu0FtZ1mjIQL3dseEKDWJ_iyFdZRWdcUwUGj2Mv9',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2005
+    },
+    {
+        Title: 'Day of the Dead: Bloodline',
+        img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjw-Pkt0D71m2K_wffTYD46UO8wgvuilzLU_TZ_3DejyMjqTDI',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2017
+    },
+    {
+        Title: 'Train to Busan',
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_wZYjDAoZDg7bRYYqj9tGH5HuevNXkVUmy66q_-xxNMcju3Or',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2016
+    },
+    {
+        Title: 'Warm Bodies',
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSriiTFKmCGiX6FXzoUjsEIhAD8-ThXTq6UF7ID_1fp-aDRToD',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2013
+    },
+    {
+        Title: '28 Days Later',
+        img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe6Gk5TrEjlAudmsmGZ5HI8ajRoWrB5wZRERRP2mDHEieXa6PD',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2002
+    },
+    {
+        Title: '28 Weeks Later',
+        img: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0QmZUUZdygKTb6PZZSnZvdG5ce_rAq9uxdeG6ls7viL9UUvq2',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2007
+    },
+    {
+        Title: 'Isle of the Dead',
+        img: 'https://unobtainium13.files.wordpress.com/2016/08/isle-of-the-dead-poster.jpg?w=600',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2016
+    },
+    {
+        Title: 'Army of the Dead',
+        img: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYZfWnDCXUMQth18KugHyfWW0zDxA_Afjcv4V6prcqr4FdFpr6',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2021
+    },
+    {
+        Title: 'Cargo',
+        img: 'https://cdn3-www.comingsoon.net/assets/uploads/gallery/cargo/cargoposter.jpg',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2017
+    },
+    {
+        Title: 'Zombie Wars',
+        img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB4EnYoqImhk_WMzXq3Kbpfj8icyc_8s2YiPyytnh4cJ6QdiGS',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2007
+    },
+    {
+        Title: 'Night of the Living Dead',
+        img: 'https://www.movienewsletters.net/photos/276250R1.jpg',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 1968
+    },
+
+    {
+        Title: `The Dead Don't Die`,
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfrSic0uNmZoplaJYYqhfcrJqcmi56300XgKDRnEhfsHDStJ5M',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2019
+    },
+    {
+        Title: 'The Walking Dead',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHpiX6QwgIOQkRv1NBQZL7x9b7t6QZiMiV83v4o-TIxBeA91CB',
+        link: '',
+        cat: ['zombie'],
+        remarks: '11 Mfs Seasons #AMC Universe',
+        year: 2010
+    },{
+        Title: 'Fear the Walking Dead',
+        img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6xpHWP1E2wTfMR9ADgiKqY1xuBCf26IdhAVwYr5acw-mCXS4q',
+        link: '8 Mfs Season #AMC Universe',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2015
+    },
+    {
+        Title: 'The Walking Dead: World Beyond',
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQLmdOm6PoZbJ_z8hn3AfIFsgKwkXjBn2xLy8S_-RkVirZvZa8',
+        link: '',
+        cat: ['zombie'],
+        remarks: '2 season #AMC',
+        year: 2020
+    },
+    {
+        Title: 'Tales of the Walking Dead',
+        img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkMjVVYsJEJVYVOv0yYJvLC5Z23qMVQa5kPv64IKS-VoFgCjpy',
+        link: '',
+        cat: ['zombie'],
+        remarks: '1 season #AMC',
+        year: 2022
+    },
+    {
+        Title: 'The Walking Dead: Dead City',
+        img: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFkkNz9Hl6ZQkXnZY3tJO2ePqg3YQwNuVGaA0BLvZwYloVjunI',
+        link: '',
+        cat: ['zombie'],
+        remarks: '1 Season #AMC',
+        year: 2022
+    },
+    {
+        Title: 'Z Nation',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFOQu5_Nc9xu4urS9dD8dESEZtkAtbh2oIXgT4XEUofOGq2Th',
+        link: '',
+        cat: ['zombie'],
+        remarks: '5 Seasons',
+        year: 2014
+    },
+    {
+        Title: 'Black Summer',
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlzUT86ymNwU5RYoY4bMXGXMMeiIItQCMGEdaoe3cindFOVspg',
+        link: '',
+        cat: ['zombie'],
+        remarks: '2 Season',
+        year: 2019
+    },
+    {
+        Title: 'Kingdom',
+        img: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR5zsNvamugg7Y1bXSFY3hLK-TGMlpW3yPte6SH2wv5eF5VXGg',
+        link: '',
+        cat: ['zombie'],
+        remarks: '2 seasons',
+        year: 2010
+    },
+
+    {
+        Title: 'All of Us Are Dead',
+        img: 'https://upload.wikimedia.org/wikipedia/en/2/24/All_of_Us_Are_Dead.jpeg',
+        link: '',
+        cat: ['zombie'],
+        remarks: '1 season',
+        year: 2022
+    },
+    {
+        Title: 'Daybreak',
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7RuFG1xNFUAjqIZMhhA5idmeXbLaNP9C5HbtrMaTGHiJa8H-',
+        link: '',
+        cat: ['zombie'],
+        remarks: '1 season',
+        year: 2019
+    },
+    {
+        Title: 'iZombie',
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnAUI5Kp49StJ1243owY_ZHOzJwTGfSrwmFbHEDJVWdyFuYfS3',
+        link: '',
+        cat: ['zombie'],
+        remarks: '5 season',
+        year: 2015
+    },
+    {
+        Title: 'Reality Z',
+        img: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTePHUqodmtG9RMZDlSDsTuKWwelVLtKbQC4lpjkHjBNQeqV0Cx',
+        link: '',
+        cat: ['zombie'],
+        remarks: '1 season',
+        year: 2020
+    },{
+        Title: 'Anna and the Apocalypse',
+        img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZVpusp6zV5F0P-KjgBtvSWix--gNyBbQJ-RabVhI_DM0Lhe3c',
+        link: '',
+        cat: ['zombie'],
+        remarks: '',
+        year: 2017
+    },
+
+
 ] 
